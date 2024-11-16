@@ -1,0 +1,23 @@
+.footer{
+    width: 1920px;
+height: 654px;
+    background: #245852;
+}
+.footer_wrapper h4{
+font-weight: 900;
+font-size: 40px;
+color: #fff;
+margin-bottom: 60px;
+
+}
+.footer_wrapper li{
+    font-weight: 600;
+    font-size: 25px;
+    color: #fff; 
+    list-style: none; 
+    margin-bottom: 60px;
+}
+.footer_wrapper{
+    padding-top: 97px;
+}
+

@@ -1,0 +1,44 @@
+.header_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header_w2 li{
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+color: #292929;
+list-style: none;
+}
+.header_w2 ul{
+    display: flex;
+    align-items: center;
+    gap: 72px;
+}
+.header_w3 span{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 20px;
+color: #000;
+}
+.header_w3 button{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 125%;
+    text-align: center;
+    color: #fff;
+    border: 1px solid #01996d;
+border-radius: 4px;
+padding: 13px 50px;
+width: 183px;
+height: 51px;
+background: #01996d;
+padding: 17px ;
+}
+.header_w3 {
+display: flex;
+align-items: center;
+gap: 35px;
+
+}

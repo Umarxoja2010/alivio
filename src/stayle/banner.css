@@ -1,0 +1,41 @@
+.banner_wrapper1 h2{
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 50px;
+line-height: 157%;
+color: #01996d;
+margin-bottom: 105px;
+
+}
+.banner_wrapper1 p{
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+color: #424242;
+margin-bottom: 107px;
+}
+.banner_wrapper1{
+    display: flex;
+    align-items: center;
+    gap: 136px;
+}
+.banner_wrapper2{
+    display: flex;
+    align-items: center;
+  gap: 95px;
+}
+.ban_w1 p{
+margin-top: 55px;
+margin-bottom: 60px;
+}
+.ban_w2 h2{
+margin-top: 205px;
+margin-bottom: 60px;
+}
+.ban_w2 {
+margin-bottom: 60px;
+}
+.banner p{
+    margin-bottom: 51px;
+}
